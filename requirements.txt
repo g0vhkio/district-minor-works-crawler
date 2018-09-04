@@ -1,3 +1,4 @@
 -e git+http://github.com/andylolz/scraperwiki-python.git@morph_defaults#egg=scraperwiki
 
 requests==2.18.4
+beautifulsoup4==4.6.0
